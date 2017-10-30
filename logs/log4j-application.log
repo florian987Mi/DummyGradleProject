@@ -1,0 +1,5 @@
+2017-10-30 14:15:34 DEBUG CheckNumeric:17 - This is debug : Florian
+2017-10-30 14:15:34 INFO  CheckNumeric:21 - This is info : Florian
+2017-10-30 14:15:34 WARN  CheckNumeric:24 - This is warn : Florian
+2017-10-30 14:15:34 ERROR CheckNumeric:25 - This is error : Florian
+2017-10-30 14:15:34 FATAL CheckNumeric:26 - This is fatal : Florian
